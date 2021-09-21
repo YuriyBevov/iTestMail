@@ -4,5 +4,5 @@
 
 Проверял в chrome и firefox на gmail, для отправки писем на почту использовал unisender.com
 
-PixelPerfect не делал
+PixelPerfect и адаптив не делал
  
